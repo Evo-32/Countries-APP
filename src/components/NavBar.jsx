@@ -1,6 +1,7 @@
 import React from "react";
 import MenuIcon from "./MenuIcon";
 import LogoIcon from "./LogoIcon";
+import Mobilelogo from "./Mobilelogo";
 
 const NavBar = () => {
   return (
@@ -9,6 +10,7 @@ const NavBar = () => {
         <li>
           <a href="#">
             <LogoIcon />
+            <Mobilelogo/>
           </a>
         </li>
       </ul>

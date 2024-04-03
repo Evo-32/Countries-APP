@@ -6,6 +6,7 @@ import NotFound from './pages/NotFound';
 import HomeLayout from './layouts/HomeLayout';
 import OtherLayouts from './layouts/OtherLayouts';
 
+
 const App = () => {
   return (
     <BrowserRouter>

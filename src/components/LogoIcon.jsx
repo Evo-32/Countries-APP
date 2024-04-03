@@ -3,7 +3,7 @@ import React from "react";
 const LogoIcon = ({ className }) => {
   return (
     <svg
-      className={className}
+      className="hidden lg:block"
       id="logo-87"
       width="202"
       height="40"

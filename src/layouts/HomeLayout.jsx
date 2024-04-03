@@ -6,7 +6,7 @@ const HomeLayout = ({children}) => {
   return (
     <div>
         <Header />
-        {children} 
+        {children}
         <Footer />
     </div>
   )
