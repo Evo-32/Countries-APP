@@ -16,6 +16,7 @@ export const SearchInput = ({ onSearch }) => {
         onChange={(event) => setSearchterm(event.target.value)}
         className="border border-gray-300 px-4 py-2 w-full outline-none"
       />
+      
     </form>
   );
 };
